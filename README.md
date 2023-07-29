@@ -27,4 +27,5 @@ Flappy Bird clone written in C++ using SFML. It replicates the classic gameplay 
 ## Screenshots
 
 ![Screenshot 1](src/Images/Screenshot1.png)
+
 ![Screenshot 2](src/Images/Screenshot2.png)
